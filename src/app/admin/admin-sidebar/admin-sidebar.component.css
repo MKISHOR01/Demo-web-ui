@@ -1,0 +1,13 @@
+.sidebar .nav:not(.sub-menu) {
+  margin-top: 0;
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+.sidebar {
+  min-height:100%;
+  background: #fff;
+  font-family: "Nunito", sans-serif;
+  font-weight: 500;
+  padding: 0;
+}
